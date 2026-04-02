@@ -1,0 +1,25 @@
+target,target_type,feeder_1,feeder_2,feeder_3
+Cape of Good Hope,chokepoint,Strait of Hormuz,Suez Canal,Bab el-Mandeb Strait
+Suez Canal,chokepoint,Bab el-Mandeb Strait,Strait of Hormuz,
+Bab el-Mandeb Strait,chokepoint,Strait of Hormuz,,
+Malacca Strait,chokepoint,Strait of Hormuz,Bab el-Mandeb Strait,
+Panama Canal,chokepoint,Yucatan Channel,,
+Gibraltar Strait,chokepoint,Suez Canal,Bab el-Mandeb Strait,
+Dover Strait,chokepoint,Gibraltar Strait,Suez Canal,
+Bosporus Strait,chokepoint,Suez Canal,,
+Taiwan Strait,chokepoint,Malacca Strait,Korea Strait,
+Korea Strait,chokepoint,Malacca Strait,Taiwan Strait,
+Lombok Strait,chokepoint,Malacca Strait,,
+Sunda Strait,chokepoint,Malacca Strait,,
+Makassar Strait,chokepoint,Malacca Strait,Lombok Strait,
+Persian Gulf,region,Strait of Hormuz,,
+East Asia,region,Malacca Strait,Taiwan Strait,Korea Strait
+Southeast Asia,region,Malacca Strait,Strait of Hormuz,
+Indian Subcontinent,region,Strait of Hormuz,Bab el-Mandeb Strait,
+Mediterranean,region,Suez Canal,Gibraltar Strait,Bosporus Strait
+Northwest Europe,region,Dover Strait,Gibraltar Strait,Suez Canal
+North America,region,Panama Canal,Yucatan Channel,
+Latin America,region,Panama Canal,Magellan Strait,
+West Africa,region,Cape of Good Hope,Gibraltar Strait,
+Russia,region,Bosporus Strait,Korea Strait,
+Oceania,region,Malacca Strait,Lombok Strait,
